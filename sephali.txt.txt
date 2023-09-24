@@ -1,1 +1,7 @@
-Hii Sephali.
+Hii i am Sephali padhi. I have completed my masters in computer applications. i have created this text file to complete a given task i.e to create a public repository , make a initial commit and with in 24 hour make a final commit.
+These are the following stepsl to achieve the task.
+step-1 Created a public repository in my personal github account.
+step-2 cloned the repository to my local machine.
+step-3 created a text file to start a initial commit.
+step-4 adding this documentation to make a final commit.
+step-5 1st we need to run the command git add . which will help us to save the changes locally, then we can use the command git commit -m "message" to stag our changes with a commit message in our local repository. then we need to run the command git push to push the all changes files and folders with a commit message to the remote repository.
